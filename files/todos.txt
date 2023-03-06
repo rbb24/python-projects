@@ -1,4 +1,3 @@
 wash car
-massagecar wash
-load box
-water plants
+clean the program
+fish car
